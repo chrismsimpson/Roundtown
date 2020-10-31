@@ -16,4 +16,4 @@ Reachable via chris.m.simpson [at] icloud.com or tweet @ChrisMSimpson.
 
 ### Support
 
-I am not responsible if this typefaces blows up your toaster.
+I am not responsible if this typeface blows up your toaster.
