@@ -4,7 +4,7 @@ DisplayStrings = (
 HELLO,
 HDi,
 DEHILOi,
-EF
+EFilp
 );
 date = "2020-10-30 22:35:40 +0000";
 familyName = Roundtown;
@@ -1393,19 +1393,52 @@ unicode = 006B;
 },
 {
 glyphname = l;
-lastChange = "2020-10-31 00:25:41 +0000";
+lastChange = "2020-10-31 01:13:14 +0000";
 layers = (
 {
 layerId = "1C011BE3-B0CB-4B00-A948-B7D9A85F465A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"195 0 LINE",
+"195 1508 LINE",
+"141 1508 LINE",
+"141 0 LINE"
+);
+}
+);
+width = 336;
 },
 {
 layerId = "FE1C7904-AEAD-496F-B7C1-14544B843CF9";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"295 0 LINE",
+"295 1514 LINE",
+"125 1514 LINE",
+"125 0 LINE"
+);
+}
+);
+width = 420;
 },
 {
 layerId = "ED2B352B-97BF-4DE1-9BE7-F15D365D2821";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"546 0 LINE",
+"546 1524 LINE",
+"126 1524 LINE",
+"126 0 LINE"
+);
+}
+);
+width = 672;
 }
 );
 unicode = 006C;
@@ -1469,19 +1502,52 @@ unicode = 006F;
 },
 {
 glyphname = p;
-lastChange = "2020-10-31 00:25:41 +0000";
+lastChange = "2020-10-31 01:13:14 +0000";
 layers = (
 {
 layerId = "1C011BE3-B0CB-4B00-A948-B7D9A85F465A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"195 -392 LINE",
+"195 1042 LINE",
+"141 1042 LINE",
+"141 -392 LINE"
+);
+}
+);
+width = 336;
 },
 {
 layerId = "FE1C7904-AEAD-496F-B7C1-14544B843CF9";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"294 -398 LINE",
+"294 1054 LINE",
+"124 1054 LINE",
+"124 -398 LINE"
+);
+}
+);
+width = 418;
 },
 {
 layerId = "ED2B352B-97BF-4DE1-9BE7-F15D365D2821";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"546 -408 LINE",
+"546 1098 LINE",
+"126 1098 LINE",
+"126 -408 LINE"
+);
+}
+);
+width = 672;
 }
 );
 unicode = 0070;
