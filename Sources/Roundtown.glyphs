@@ -2621,6 +2621,84 @@ width = 600;
 unicode = 0020;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+"1C011BE3-B0CB-4B00-A948-B7D9A85F465A" = 1;
+};
+name = Thin;
+weightClass = Thin;
+},
+{
+interpolationWeight = 200;
+instanceInterpolations = {
+"1C011BE3-B0CB-4B00-A948-B7D9A85F465A" = 0.66667;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.33333;
+};
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 300;
+instanceInterpolations = {
+"1C011BE3-B0CB-4B00-A948-B7D9A85F465A" = 0.33333;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.66667;
+};
+name = Light;
+weightClass = Light;
+},
+{
+interpolationWeight = 400;
+instanceInterpolations = {
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 1;
+};
+name = Regular;
+},
+{
+interpolationWeight = 500;
+instanceInterpolations = {
+"ED2B352B-97BF-4DE1-9BE7-F15D365D2821" = 0.2;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.8;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 600;
+instanceInterpolations = {
+"ED2B352B-97BF-4DE1-9BE7-F15D365D2821" = 0.4;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.6;
+};
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+interpolationWeight = 700;
+instanceInterpolations = {
+"ED2B352B-97BF-4DE1-9BE7-F15D365D2821" = 0.6;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.4;
+};
+name = Bold;
+weightClass = Bold;
+},
+{
+interpolationWeight = 800;
+instanceInterpolations = {
+"ED2B352B-97BF-4DE1-9BE7-F15D365D2821" = 0.8;
+"FE1C7904-AEAD-496F-B7C1-14544B843CF9" = 0.2;
+};
+name = ExtraBold;
+weightClass = ExtraBold;
+},
+{
+interpolationWeight = 900;
+instanceInterpolations = {
+"ED2B352B-97BF-4DE1-9BE7-F15D365D2821" = 1;
+};
+name = Black;
+weightClass = Black;
+}
+);
 unitsPerEm = 2048;
 versionMajor = 1;
 versionMinor = 0;
