@@ -2,7 +2,9 @@
 .appVersion = "1342";
 DisplayStrings = (
 HELLO,
-HDi
+HDi,
+DEHILOi,
+EF
 );
 date = "2020-10-30 22:35:40 +0000";
 familyName = Roundtown;
@@ -462,19 +464,70 @@ unicode = 0045;
 },
 {
 glyphname = F;
-lastChange = "2020-10-31 00:25:41 +0000";
+lastChange = "2020-10-31 01:04:17 +0000";
 layers = (
 {
 layerId = "1C011BE3-B0CB-4B00-A948-B7D9A85F465A";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"252 0 LINE",
+"252 698 LINE",
+"1025 698 LINE",
+"1025 752 LINE",
+"252 752 LINE",
+"252 1396 LINE",
+"1067 1396 LINE",
+"1067 1450 LINE",
+"196 1450 LINE",
+"196 0 LINE"
+);
+}
+);
+width = 1205;
 },
 {
 layerId = "FE1C7904-AEAD-496F-B7C1-14544B843CF9";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"345 0 LINE",
+"345 648 LINE",
+"1061 648 LINE",
+"1061 802 LINE",
+"345 802 LINE",
+"345 1296 LINE",
+"1113 1296 LINE",
+"1113 1450 LINE",
+"173 1450 LINE",
+"173 0 LINE"
+);
+}
+);
+width = 1215;
 },
 {
 layerId = "ED2B352B-97BF-4DE1-9BE7-F15D365D2821";
-width = 600;
+paths = (
+{
+closed = 1;
+nodes = (
+"594 0 LINE",
+"594 557 LINE",
+"1215 557 LINE",
+"1215 893 LINE",
+"594 893 LINE",
+"594 1114 LINE",
+"1273 1114 LINE",
+"1273 1450 LINE",
+"172 1450 LINE",
+"172 0 LINE"
+);
+}
+);
+width = 1366;
 }
 );
 unicode = 0046;
